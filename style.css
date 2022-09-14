@@ -1,0 +1,12 @@
+.whatsapp a {
+    cursor: pointer;
+}
+
+.hand-card {
+    margin-bottom: -10px !important;
+    padding-bottom: 0 !important;
+}
+
+.ton::after {
+    '>'
+}
